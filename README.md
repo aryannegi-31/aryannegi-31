@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aryan Negi
-- 👀 I’m interested in development, devops, web development, open source projects
-- 🌱 I’m currently learning devops, web development and pursuing B-tech(CSE)
-- 💞️ I’m looking forward to get a remote job.
+- 👀 I’m interested in development like web and android development
+- 🌱 I’m currently pursuing B-tech(CSE)
+- 💞️ I’m looking forward to get a product based company as a SDE.
 - 📫 To reach me out email me: aryannegi9997@gmail.com
-- 👀 You can connect with me in instagram: https://www.instagram.com/aryan_negi_31/
-- 
+- 👀 You can connect with me in twitter: https://twitter.com/aryan_negi_31
