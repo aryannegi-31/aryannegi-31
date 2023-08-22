@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Aryan Negi
-- 👀 I love doing web development
 - 🌱 I’m currently pursuing B-tech(CSE)
 - 💞️ I’m looking forward to get a product based company as a SDE.
 - 📫 To reach me out email me: aryannegi9997@gmail.com
